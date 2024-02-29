@@ -1,0 +1,38 @@
+.header {
+    max-width: 1000px;
+    height: 100px;
+    position: relative;
+    /* padding-top: 100px; */
+    background-color: #1e1e1e;
+}
+
+.header header{
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(54, 51, 47);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    position:fixed;
+    top:5px;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+
+
+.footer{
+    width: 1000px;
+    height: fit-content;
+    background-color: rgb(54, 51, 47);
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 30px;
+}
+
+.footer p{
+    text-align: center;
+}
+
+
+
